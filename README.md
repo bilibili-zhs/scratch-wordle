@@ -1,0 +1,2 @@
+# scratch-wordle
+a game.
